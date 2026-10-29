@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Category-Font+Manager-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 FontBase Free Installer** — FontBase is a free font manager for Windows, macOS, and Linux that organizes and activates fonts without installing them system-wide. Works without internet access, no account required. Full offline installation.
+**💻 FontBase Free Installer** — FontBase is a free font manager for Windows, macOS, and Linux that helps designers organize and activate fonts without installing them permanently. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -30,16 +30,16 @@
 
 ## 📖 About FontBase
 
-FontBase is a free font manager for Windows, macOS, and Linux that organizes and activates fonts without installing them system-wide. It supports Google Fonts sync, collections, tagging, and a clean visual preview interface for browsing large font libraries.
+FontBase is a free font manager for Windows, macOS, and Linux that helps designers organize and activate fonts without installing them permanently. Browse your font collection with live previews, organize fonts into collections, and activate only the fonts you need for each project. FontBase's non-destructive activation approach keeps your system clean while providing instant access to thousands of fonts.
 
 ---
 
 ## ❌ Problem: FontBase is hard to access
 
-- **Paid for Pro Features** — Cloud sync and some management features require paid plan
-- **Performance on Large Libraries** — Slow with extremely large font collections (10,000+)
-- **No Editing** — Font viewer and manager only; cannot edit font files
-- **Internet Required for Google Fonts** — Google Fonts library sync requires internet
+- **Performance with Large Libraries** — Thousands of fonts can slow down preview rendering
+- **Cloud Sync Premium** — Cross-device sync requires paid subscription
+- **Activation Dependency** — Fonts must be activated in FontBase before use in apps
+- **Limited Editing** — Management only; no font editing capabilities
 
 ---
 
@@ -121,7 +121,7 @@ FontBase is a free font manager for Windows, macOS, and Linux that organizes and
 
 ---
 
-**FontBase Free Installer** — FontBase is a free font manager for Windows, macOS, and Linux that organizes and activates fonts without installing them system-wide. Install without internet connection today!
+**FontBase Free Installer** — FontBase is a free font manager for Windows, macOS, and Linux that helps designers organize and activate fonts without installing them permanently. Install without internet connection today!
 
 <div align="center">
 
